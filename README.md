@@ -37,7 +37,7 @@ Work in progress.
     % Resistenza Aerodinamica
     F_Aereodin = 0.5*rho*A*Cd*Vel.^2; % [N]
 
-    % Resitenza Collinare
+    % Resistenza Collinare
     F_Coll = mass*9.81*sin(theta); % [N]
 
     % Resistenza Inerziale 
