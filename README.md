@@ -5,7 +5,7 @@ This code was developed to evaluate the energy consumed by an electric vehicle i
 
 Work in progress.
 
-## 03/11/2023 -> The parameters utiliezd for the article (DOI in progeress) are:
+## 03/11/2023 -> The parameters utiliezd for the article (DOI: https://doi.org/10.3390/machines11040420) are:
   Driving cycle: Manhattan Bus Cycle
   
   Dati_Veicolo 
